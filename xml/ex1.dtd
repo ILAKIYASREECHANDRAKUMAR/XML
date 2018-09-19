@@ -1,0 +1,4 @@
+<!ELEMENT student (text1,text2,text3)>
+<!ELEMENT text1 (#PCDATA)>
+<!ELEMENT text2 (#PCDATA)>
+<!ELEMENT text3 (#PCDATA)>
